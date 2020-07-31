@@ -13,4 +13,4 @@ Linear dynamics
 - [ ] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
 
 #### Unsupervised learning
-- [ ] [Reinforcemnet learning](https://youtu.be/Nd1-UUMVfz4)
+- [ ] [Reinforcement learning](https://youtu.be/Nd1-UUMVfz4)
