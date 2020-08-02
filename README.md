@@ -14,3 +14,14 @@ Linear dynamics
 
 #### Unsupervised learning
 - [ ] [Reinforcement learning](https://youtu.be/Nd1-UUMVfz4)
+
+
+### Research Papers
+
+#### Object Tracking
+[2020 MOT Workshop](https://motchallenge.net/workshops/bmtt2020/)
+
+#### Controls
+
+
+#### Robot making
