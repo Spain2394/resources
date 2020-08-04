@@ -6,6 +6,7 @@
 
 #### Math
 Linear dynamics 
+[Geometric programming](https://gpkit.readthedocs.io/en/latest/gp101.html#why-are-gps-special)
 
 #### Programming
 - [ ] [Operating Systems in Rust](https://github.com/dddrrreee/cs140e-20win/)
@@ -31,5 +32,7 @@ Linear dynamics
 [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
 
 #### Robot making
+[MIT makerspace](http://miters.mit.edu/projects/)
+[GT makerspace](http://miters.mit.edu/projects/)
 
 
