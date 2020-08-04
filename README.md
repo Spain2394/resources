@@ -33,6 +33,5 @@ Linear dynamics
 
 #### Robot making
 [MIT makerspace](http://miters.mit.edu/projects/)
-[GT makerspace](http://miters.mit.edu/projects/)
 
 
