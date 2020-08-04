@@ -6,6 +6,7 @@
 
 #### Math
 Linear dynamics 
+
 [Geometric programming](https://gpkit.readthedocs.io/en/latest/gp101.html#why-are-gps-special)
 
 #### Programming
