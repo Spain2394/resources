@@ -5,9 +5,7 @@
 - [ ] [Control of Mobile Robots](https://www.coursera.org/learn/mobile-robot?)
 
 #### Math
-Linear dynamics 
-
-[Geometric programming](https://gpkit.readthedocs.io/en/latest/gp101.html#why-are-gps-special)
+- [ ] [Geometric programming tutorial](https://gpkit.readthedocs.io/en/latest/gp101.html#why-are-gps-special)
 
 #### Programming
 - [ ] [Operating Systems in Rust](https://github.com/dddrrreee/cs140e-20win/)
