@@ -22,6 +22,7 @@ Linear dynamics
 [2020 MOT Workshop](https://motchallenge.net/workshops/bmtt2020/)
 
 #### Controls
+[Visual navigation using crop rows](https://arxiv.org/pdf/1909.12754.pdf)
 
 #### Unsupervised learning 
 [Imagenet: Where have we been? Where are we going?](https://www.youtube.com/watch?v=jYvBmJo7qjc)
