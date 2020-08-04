@@ -25,7 +25,9 @@
 [Visual navigation using crop rows](https://arxiv.org/pdf/1909.12754.pdf)
 
 #### Unsupervised learning 
-[Imagenet: Where have we been? Where are we going?](https://www.youtube.com/watch?v=jYvBmJo7qjc)
+* [Imagenet: Where have we been? Where are we going?](https://www.youtube.com/watch?v=jYvBmJo7qjc)
+* [Understanding deep learning errors](https://arxiv.org/pdf/1611.03530.pdf)
+
 
 #### Unsupervised learning 
 [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
