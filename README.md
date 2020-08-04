@@ -16,12 +16,15 @@ Linear dynamics
 - [ ] [Reinforcement learning](https://youtu.be/Nd1-UUMVfz4)
 
 
-### Research Papers
+### Research Work
 
 #### Object Tracking
 [2020 MOT Workshop](https://motchallenge.net/workshops/bmtt2020/)
 
 #### Controls
+
+#### Unsupervised learning 
+[Imagenet: Where have we been? Where are we going?](https://www.youtube.com/watch?v=jYvBmJo7qjc)
 
 #### Unsupervised learning 
 [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
