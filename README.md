@@ -1,5 +1,6 @@
 # resources
-
+--------------------------------------------------------------------------------------------------------------------------------
+### Coursework
 #### Controls
 - [ ] [Control of Mobile Robots](https://www.coursera.org/learn/mobile-robot?)
 
@@ -15,9 +16,8 @@ Linear dynamics
 #### Unsupervised learning
 - [ ] [Reinforcement learning](https://youtu.be/Nd1-UUMVfz4)
 
-
+--------------------------------------------------------------------------------------------------------------------------------
 ### Research Work
-
 #### Object Tracking
 [2020 MOT Workshop](https://motchallenge.net/workshops/bmtt2020/)
 
