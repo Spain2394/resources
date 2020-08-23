@@ -11,7 +11,9 @@
 - [ ] [Operating Systems in Rust](https://github.com/dddrrreee/cs140e-20win/)
 
 #### Supervised learning
-- [ ] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+- [ ] Deep learning specialization
+  - [ ] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+  - [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 
 #### Unsupervised learning
 - [ ] [Reinforcement learning](https://youtu.be/Nd1-UUMVfz4)
