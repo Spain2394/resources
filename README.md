@@ -34,7 +34,8 @@
 - [ ] [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
 - [ ] [Unsupervised Learning Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
-#### Robot making
+--------------------------------------------------------------------------------------------------------------------------------
+### Making
 [MIT makerspace](http://miters.mit.edu/projects/)
 
 
