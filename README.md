@@ -24,15 +24,15 @@
 [2020 MOT Workshop](https://motchallenge.net/workshops/bmtt2020/)
 
 #### Controls
-[Visual navigation using crop rows](https://arxiv.org/pdf/1909.12754.pdf)
+- [ ] [Visual navigation using crop rows](https://arxiv.org/pdf/1909.12754.pdf)
 
 #### Unsupervised learning 
-* [Imagenet: Where have we been? Where are we going?](https://www.youtube.com/watch?v=jYvBmJo7qjc)
-* [Understanding deep learning errors](https://arxiv.org/pdf/1611.03530.pdf)
+- [ ] [Imagenet: Where have we been? Where are we going?](https://www.youtube.com/watch?v=jYvBmJo7qjc)
+- [ ] [Understanding deep learning errors](https://arxiv.org/pdf/1611.03530.pdf)
 
 #### Unsupervised learning 
-[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
-[Unsupervised Learning Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- [ ] [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
+- [ ] [Unsupervised Learning Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
 #### Robot making
 [MIT makerspace](http://miters.mit.edu/projects/)
