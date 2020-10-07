@@ -14,6 +14,7 @@
 - [ ] Deep learning specialization
   - [ ] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
   - [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+-[ ] [Image Convolution Visualization](https://setosa.io/ev/image-kernels/)
 
 #### Unsupervised learning
 - [ ] [Reinforcement learning](https://youtu.be/Nd1-UUMVfz4)
