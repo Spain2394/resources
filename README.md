@@ -7,7 +7,7 @@
 - [ ] [Stanford GNC Cert]()
 
 #### Dynamics 
-- [MIT Engineering Dynamics course](https://www.youtube.com/watch?v=GUvoVvXwoOQ&list=PLUl4u3cNGP62esZEwffjMAsEMW_YArxYC)
+-[ ] [MIT Engineering Dynamics course](https://www.youtube.com/watch?v=GUvoVvXwoOQ&list=PLUl4u3cNGP62esZEwffjMAsEMW_YArxYC)
 
 #### Math
 - [ ] [Geometric programming tutorial](https://gpkit.readthedocs.io/en/latest/gp101.html#why-are-gps-special)
