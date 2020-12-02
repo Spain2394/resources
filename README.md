@@ -3,12 +3,18 @@
 ### Coursework
 #### Controls
 - [ ] [Control of Mobile Robots](https://www.coursera.org/learn/mobile-robot?)
+- [ ] [DYN and Controls of Spacecraft](https://www.coursera.org/specializations/spacecraft-dynamics-control?authMode=login&authType=google&errorCode=unknownStatus)
+- [ ] [Stanford GNC Cert]()
+
+#### Dynamics 
+- [MIT Engineering Dynamics course](https://www.youtube.com/watch?v=GUvoVvXwoOQ&list=PLUl4u3cNGP62esZEwffjMAsEMW_YArxYC)
 
 #### Math
 - [ ] [Geometric programming tutorial](https://gpkit.readthedocs.io/en/latest/gp101.html#why-are-gps-special)
 
 #### Programming
 - [ ] [Operating Systems in Rust](https://github.com/dddrrreee/cs140e-20win/)
+- [ ] [GT OMSCS](https://omscs.gatech.edu/explore-oms-cs) 
 
 #### Supervised learning
 - [ ] Deep learning specialization
